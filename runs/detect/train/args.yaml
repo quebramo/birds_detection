@@ -1,7 +1,7 @@
 task: detect
 mode: train
 model: yolov8m.pt
-data: my_dataset_yolo/data.yaml
+data: /Users/vasilijsubenok/Study/pet-projects/birds_detection/my_dataset_yolo/data.yaml
 epochs: 100
 patience: 50
 batch: 16
